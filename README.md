@@ -1,5 +1,4 @@
 # 💫 About Me:
-## 💫 About Me
 B.Tech student passionate about software development, backend engineering, and problem solving, with a strong focus on building clean, scalable, and efficient applications. Currently strengthening my skills in Java, DSA, and system design while actively seeking software development and AI internship opportunities.
 
 
