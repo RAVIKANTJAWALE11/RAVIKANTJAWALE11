@@ -1,5 +1,6 @@
 # 💫 About Me:
- Enhancing my problem-solving skills through clean, optimized code.<br><br> Fast-paced software engineering projects and internships.<br><br>Finding Software Development and AI internship opportunities.<br><br> Frontend technologies and data science pipeline optimizations.<br><br>Ctrl + Z is my favorite magic spell.
+## 💫 About Me
+B.Tech student passionate about software development, backend engineering, and problem solving, with a strong focus on building clean, scalable, and efficient applications. Currently strengthening my skills in Java, DSA, and system design while actively seeking software development and AI internship opportunities.
 
 
 # 💻 Tech Stack:
